@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bhanuprakaash/react-personal-portfolio.git/static/css/main.c4d97602.css",
+    "main.js": "/bhanuprakaash/react-personal-portfolio.git/static/js/main.385b2995.js",
+    "static/js/787.d2155700.chunk.js": "/bhanuprakaash/react-personal-portfolio.git/static/js/787.d2155700.chunk.js",
+    "static/media/warehouse.webp": "/bhanuprakaash/react-personal-portfolio.git/static/media/warehouse.46b52d707285770fea1e.webp",
+    "static/media/bhanuprofile.png": "/bhanuprakaash/react-personal-portfolio.git/static/media/bhanuprofile.12062b2dc5b9558c0707.png",
+    "static/media/chatbot.png": "/bhanuprakaash/react-personal-portfolio.git/static/media/chatbot.e3263f79c4892b921648.png",
+    "static/media/react.png": "/bhanuprakaash/react-personal-portfolio.git/static/media/react.ef20e673b9282f8f30fd.png",
+    "index.html": "/bhanuprakaash/react-personal-portfolio.git/index.html",
+    "main.c4d97602.css.map": "/bhanuprakaash/react-personal-portfolio.git/static/css/main.c4d97602.css.map",
+    "main.385b2995.js.map": "/bhanuprakaash/react-personal-portfolio.git/static/js/main.385b2995.js.map",
+    "787.d2155700.chunk.js.map": "/bhanuprakaash/react-personal-portfolio.git/static/js/787.d2155700.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4d97602.css",
+    "static/js/main.385b2995.js"
+  ]
+}
