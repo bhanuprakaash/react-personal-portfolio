@@ -47,7 +47,8 @@ const LandingSection = () => {
         formik.resetForm();
       }
     }
-  },[response])
+    //eslint-disable-next-line
+  },[response]);
 
   return (
     <FullScreenSection
