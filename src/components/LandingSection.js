@@ -9,8 +9,7 @@ const greeting = "Hello, I am Bhanu Prakash Sai!";
 const bio1 = "Computer Science Student";
 const bio2 = "Specialised in React";
 
-// Implement the UI for the LandingSection component according to the instructions.
-// Use a combination of Avatar, Heading and VStack components.
+
 const LandingSection = () => (
   <FullScreenSection
     justifyContent="center"
