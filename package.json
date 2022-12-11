@@ -1,6 +1,7 @@
 {
   "name": "react-personal-portfolio",
   "version": "0.1.0",
+  "homepage": "https://bhanuprakaash/react-personal-portfolio",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.4.3",
